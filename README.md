@@ -132,7 +132,7 @@ Make sure to use `multipart/form-data` encoding for the file!
 **Params:**
 * `upload` - A file with one of the following extensions:
              `['mp3', 'ogg', 'flac', 'pdf' ,'epub', 'djvu',
-               'gif', 'gifv', 'mp4', 'mkv', 'avi', 'webm']`
+               'gif', 'gifv', 'mp4', 'mkv', 'avi', 'webm', 'jpg', 'jpeg', 'png']`
 
 Returns status code 201 and ...
 
